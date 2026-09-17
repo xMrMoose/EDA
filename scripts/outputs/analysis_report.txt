@@ -1,0 +1,3 @@
+WILDCAT CAPITAL — LOAN PORTFOLIO ANALYSIS
+Generated: 2026-09-16 14:13:00
+Source file: wildcat_loans_clean.csv
